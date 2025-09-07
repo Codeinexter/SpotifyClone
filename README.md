@@ -5,7 +5,7 @@ A basic frontend clone of Spotify's user interface, simulating the experience of
 
 ## 🚀 Live Demo
 Experience the application live at:
-👉 spotify-clone-lac.vercel.app
+- 👉 https://spotify-clone-lac.vercel.app/
 
 ---
 
